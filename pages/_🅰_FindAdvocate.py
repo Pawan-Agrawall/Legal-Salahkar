@@ -19,7 +19,7 @@ st.set_page_config(
 
 # Firebase Configuration
 firebase_config = {
-    "apiKey": "AIzaSyCagJjYVOyVCqvmXyUy-ri8GFkanxhx6EI",
+    "apiKey": "XXXXXXXXXXXXXXXXXXXXXXXXXX",
     "authDomain": "advocatesinfo-b5650.firebaseapp.com",
     "projectId": "advocatesinfo-b5650",
     "storageBucket": "advocatesinfo-b5650.appspot.com",
@@ -185,3 +185,4 @@ else:
 
             # Clear float
             st.markdown("<div style='clear: both;'></div>", unsafe_allow_html=True)
+
